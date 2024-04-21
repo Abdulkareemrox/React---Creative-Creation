@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abdulkareemrox/React---Creative-Creation/static/css/main.ed9946c4.css",
+    "main.js": "/Abdulkareemrox/React---Creative-Creation/static/js/main.474fcf6c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Abdulkareemrox/React---Creative-Creation/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Abdulkareemrox/React---Creative-Creation/index.html",
+    "main.ed9946c4.css.map": "/Abdulkareemrox/React---Creative-Creation/static/css/main.ed9946c4.css.map",
+    "main.474fcf6c.js.map": "/Abdulkareemrox/React---Creative-Creation/static/js/main.474fcf6c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Abdulkareemrox/React---Creative-Creation/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9946c4.css",
+    "static/js/main.474fcf6c.js"
+  ]
+}
