@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React---Creative-Creation/static/css/main.ed9946c4.css",
-    "main.js": "/React---Creative-Creation/static/js/main.baa8b80c.js",
-    "static/js/453.ed3810f9.chunk.js": "/React---Creative-Creation/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/React---Creative-Creation/index.html",
-    "main.ed9946c4.css.map": "/React---Creative-Creation/static/css/main.ed9946c4.css.map",
-    "main.baa8b80c.js.map": "/React---Creative-Creation/static/js/main.baa8b80c.js.map",
-    "453.ed3810f9.chunk.js.map": "/React---Creative-Creation/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/CreativeDashboard/static/css/main.ed9946c4.css",
+    "main.js": "/CreativeDashboard/static/js/main.0fb7e93a.js",
+    "static/js/453.ed3810f9.chunk.js": "/CreativeDashboard/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CreativeDashboard/index.html",
+    "main.ed9946c4.css.map": "/CreativeDashboard/static/css/main.ed9946c4.css.map",
+    "main.0fb7e93a.js.map": "/CreativeDashboard/static/js/main.0fb7e93a.js.map",
+    "453.ed3810f9.chunk.js.map": "/CreativeDashboard/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed9946c4.css",
-    "static/js/main.baa8b80c.js"
+    "static/js/main.0fb7e93a.js"
   ]
 }
